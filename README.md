@@ -5,9 +5,8 @@
 
 This repository can be added as an **extension** in MakeCode.
 
-* open [https://makecode.microbit.org/](https://makecode.microbit.org/)
-* click on **New Project**
-* click on **Extensions** under the gearwheel menu
+* open https://makecode.microbit.org/#editor
+* click extensions
 * search for **https://github.com/10-biter/plik** and import
 
 ## Edit this project
