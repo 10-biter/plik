@@ -1,6 +1,9 @@
 
 > Open this page at [https://10-biter.github.io/plik/](https://10-biter.github.io/plik/)
-
+'''
+blocks
+    led.plik(0, 0, 100)
+'''
 ## Use as Extension
 
 This repository can be added as an **extension** in MakeCode.
