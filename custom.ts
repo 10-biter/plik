@@ -1,4 +1,6 @@
 namespace led {
+    //%color=#450f5c icon="\uf111"
+
     //%block="blink at $x $y evry $ms ms"
     export function blink(x:number, y:number, ms:number): void {
         basic.forever(function() {
